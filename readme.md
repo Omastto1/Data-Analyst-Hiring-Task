@@ -2,7 +2,7 @@
 
 ## General info
 
-Concatenate data from different sources ([heinemann](https://www.heinemann-shop.com/en/fra/) and [aelia](https://www.aeliadutyfree.cz/)), merge with product mapping, parse and output to csv. Generate dataset with latest record for each product.
+Concatenate different data sources ([heinemann](https://www.heinemann-shop.com/en/fra/) and [aelia](https://www.aeliadutyfree.cz/)), merge with product mapping (all inputs are stored in `input_data` folder), parse and output to csv. Generate dataset with latest record for each product.
 - use python + pandas
 - output 2 files 
   - output.csv (merged data available in products_mapping)

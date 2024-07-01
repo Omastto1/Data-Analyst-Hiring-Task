@@ -4,13 +4,13 @@ import pandas as pd
 def main():
     pass
 
-    # Load heinemann_de and aelia_uk products
+    # Load heinemann_de and aelia_cz products from input_data folder
 
 
     # Concatenate data
 
 
-    # Load products mapping
+    # Load products mapping from input_data folder
 
 
     # Keep only products available in products mapping (based on internal id and retailer)
